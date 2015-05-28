@@ -10,13 +10,13 @@ Contoh hasil kutipan:
 > Untuk kutipan dengan tiga penulis yang disertai dengan tahun dan halaman kutipan: 
 > (Dennis, Wixom, & Tegarden, 2009:327)
 
-File style ini sudah termasuk pembuatan otomatis `Bibliography` atau Daftar Pustaka.
+File style ini sudah termasuk style untuk pembuatan `Bibliography` atau Daftar Pustaka.
 
 ## Instalasi
- 1. Buka "Explorer" dan silakan masuk ke folder `%APPDATA%\Microsoft\Bibliography\Style.`
+ 1. Buka "Explorer" dan silakan masuk ke folder `%APPDATA%\Microsoft\Bibliography\Style`.
  2. Salin file `UINJakarta.xsl` ke folder tersebut.
- 3. Buka "Microsoft(tm) Word(tm)"
- 4. Masuk ke `REFERENCES` dan pilih `APA - FST UIN Jakarta` pada pilihan `Style:`.
+ 3. Buka aplikasi "Microsoft(tm) Word(tm)"
+ 4. Masuk ke tab `REFERENCES` dan pilih `APA - FST UIN Jakarta` pada pilihan `Style:`.
  5. Selesai
 
 Jika sukses, maka akan muncul pilihan seperti ini:
