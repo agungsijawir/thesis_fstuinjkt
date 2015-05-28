@@ -1,4 +1,4 @@
-# Word Document Style Template for Thesis
+# Word Style designed for writing Thesis (Skripsi)
 Ini adalah kumpulan template Word Document yang digunakan untuk penulisan skripsi. Saat ini tersedia untuk format penulisan kutipan sumber referensi yang dimodifikasi dari Style APA.
 Contoh hasil kutipan:
 > Untuk kutipan dengan satu penulis yang disertai dengan tahun dan halaman kutipan:
